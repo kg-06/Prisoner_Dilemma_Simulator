@@ -22,7 +22,7 @@ cd Prisoner-Dilemma-Simulator
 python main.py
 ```
 
-##### Note : By default it runs 10 rounds against each strategy, you can change it my changing rounds=x(desired value) in main.py file.
+##### Note : By default it runs 10 rounds against each strategy, you can change it by changing rounds=x(desired value) in main.py file.
 
 
 
